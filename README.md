@@ -35,7 +35,7 @@
 
 <div align="center">
 
-  !
+  ![Snake animation](https://github.com/janesroberta/janesroberta/blob/output/snake.svg)
   
 </div>
 
